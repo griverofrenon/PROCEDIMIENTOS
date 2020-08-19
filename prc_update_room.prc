@@ -5,7 +5,7 @@ IS
 
 v_room_class VARCHAR2(20);
 v_room_category VARCHAR2(20);
-
+v_room VARCHAR2(20);
 BEGIN
   BEGIN
     SELECT room_class,

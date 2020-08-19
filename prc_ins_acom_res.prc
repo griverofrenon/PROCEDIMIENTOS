@@ -24,6 +24,7 @@ CREATE OR REPLACE PROCEDURE prc_ins_acom_res (pin_user IN NUMBER,
  v_begin DATE;
  v_end DATE;
  v_name_id NUMBER;
+ v_name_dos NUMBER;
 
 BEGIN
   BEGIN   
