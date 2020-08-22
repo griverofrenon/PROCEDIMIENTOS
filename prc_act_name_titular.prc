@@ -17,6 +17,7 @@ CREATE OR REPLACE PROCEDURE prc_act_name_titular (pin_resv_name_id IN NUMBER,
                                                  pout_message OUT VARCHAR2) IS
                                                  
 v_name_id NUMBER;
+v_sum NUMBER;
 BEGIN
   --Buscando el name_id 
   BEGIN
