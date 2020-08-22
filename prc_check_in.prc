@@ -11,6 +11,7 @@ UPDATE reservation_name
    AND resort = pin_resort;
    pout_message:='OK';
    
+   ......
    
 UPDATE reservation_daily_elements
   SET resv_status = 'CHECKED IN'  
