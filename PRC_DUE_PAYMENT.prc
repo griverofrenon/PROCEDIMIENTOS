@@ -7,7 +7,7 @@ BEGIN
   INTO pout_value
   FROM FINANCIAL_TRANSACTIONS
  WHERE resv_name_id = pin_resv_name_id;
-
+vadvs
   IF pout_value = 0 THEN
     UPDATE reservation_name rn
        SET resv_status = 'CHECKED OUT'
