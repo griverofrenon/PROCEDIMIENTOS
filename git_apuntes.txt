@@ -1,0 +1,22 @@
+touch nombre del archivo crea un archivo
+
+git remote -v (ver las ramas de push y fetch)
+
+
+git superlog
+
+:q
+
+
+git checkout feature/test3 (cambia de rama)
+
+
+git stash (guardar cambios locales)
+
+git stash pop (traer cambios locales)
+
+git clean -f (forzar el limpiado)
+
+git log
+
+git revert 
