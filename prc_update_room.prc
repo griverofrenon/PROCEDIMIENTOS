@@ -18,6 +18,7 @@ BEGIN
       WHEN OTHERS THEN
         NULL;
     END;
+	......................
 
   UPDATE reservation_daily_elements
      SET room = pin_room,
