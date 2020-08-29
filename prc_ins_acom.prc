@@ -23,7 +23,7 @@ CREATE OR REPLACE PROCEDURE prc_ins_acom (pin_user IN NUMBER,
  v_code VARCHAR2(50);
  v_begin DATE;
  v_end DATE;
-
+ V_toc_toc BOOLEAN;
 BEGIN
   v_secuencia_name := name_seqno.nextval;
   v_secuencia_addres:= name_address_seqno.nextval;
