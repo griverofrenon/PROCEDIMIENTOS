@@ -2,7 +2,7 @@ git pull origin develop
 
 git push -u origin 
 
-
+aKLJSDklajdlkjas
 feat/idtarea_descripcion
 
 doc/idtarea-description
