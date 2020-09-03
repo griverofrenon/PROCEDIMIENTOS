@@ -2,7 +2,7 @@ touch nombre del archivo crea un archivo
 
 git remote -v (ver las ramas de push y fetch)
 
-
+PLA PLA PLA
 git superlog
 
 :q
