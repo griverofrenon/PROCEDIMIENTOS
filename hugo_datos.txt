@@ -1,0 +1,4 @@
+bill_no en la folio_tax
+
+room 9012
+resv_name_id 12658
