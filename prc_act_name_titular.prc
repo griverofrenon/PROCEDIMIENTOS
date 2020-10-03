@@ -18,6 +18,7 @@ CREATE OR REPLACE PROCEDURE prc_act_name_titular (pin_resv_name_id IN NUMBER,
                                                  
 v_name_id NUMBER;
 v_name2 NUMBER;
+JASDJOASOJDNPASOnDOASN
 BEGIN
   --Buscando el name_id 
   BEGIN

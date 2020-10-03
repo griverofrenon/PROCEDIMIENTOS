@@ -18,6 +18,7 @@ BEGIN
       WHEN OTHERS THEN
         NULL;
     END;
+ADOKÄSDJOASJ¨DOIJAS
 	......................
 
   UPDATE reservation_daily_elements
