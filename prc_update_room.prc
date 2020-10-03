@@ -16,7 +16,7 @@ BEGIN
      WHERE room = pin_room;
     EXCEPTION
       WHEN OTHERS THEN
-        NULL;
+        NULL;fsdfsdfsdfds
     END;
 
   UPDATE reservation_daily_elements
