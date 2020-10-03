@@ -18,7 +18,7 @@ CREATE OR REPLACE PROCEDURE prc_ins_acom_res (pin_user IN NUMBER,
                                          pout_name_id OUT NUMBER,
                                          pout_message OUT VARCHAR2) IS
  v_secuencia_name NUMBER;
- v_secuencia_addres NUMBER;
+ v_secuencia_addres NUMBER;asdasdasasdasd
  v_status VARCHAR2(20);
  v_code VARCHAR2(20);
  v_begin DATE;

@@ -10,7 +10,7 @@ UPDATE reservation_name
  WHERE resv_name_id = pin_resv_name_id
    AND resort = pin_resort;
    pout_message:='OK';
-   
+   sdfsdfsdfsdfsd
    
 UPDATE reservation_daily_elements
   SET resv_status = 'CHECKED IN'  
